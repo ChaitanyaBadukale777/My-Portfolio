@@ -2417,7 +2417,7 @@ td:last-child {
 .skill-bars li {
     height        : .4rem;
     background    : var(--color-gray-9);
-    width         : 300px;
+    width         : 350px;
     margin-bottom : calc(var(--vspace-2) - .4rem);
     padding       : 0;
     position      : relative;
